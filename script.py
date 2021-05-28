@@ -24,6 +24,6 @@ image = cv2.imread(str(image_fullpath))
 upscaled = sr.upsample(image)
 
 
-image_save_path = image_fullpath.replace(image_name, "temp.png")
+image_save_path = "static/temp.png"
 cv2.imwrite(str(image_save_path), upscaled)
-print('media/temp.png')
+print('temp.png')
