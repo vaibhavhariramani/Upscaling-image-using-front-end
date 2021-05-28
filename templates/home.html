@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+{% load static %}
 
 <head>
     <title>
@@ -184,7 +185,7 @@
         <div class="div2 col-lg-6">
             <h2><i>Upscaled Image:</i></h2>
 
-            <img src={{edit_url}} width="450" height="350">
+            <img src="{% static 'temp.png' %}" width="450" height="350">
             <h3> 2x</h3>
         </div>
         <!-- <div class="col-lg-2">
