@@ -1,8 +1,17 @@
 #Upscaling Image using Deep Learinga and Deploying using django as backend
 
-# Usage
+To run Server on Local machine for image Upscaling
+`python manage.py runserver`
 
-To train the model with a zoom factor of 2, for 200 epochs and on GPU:
+ # UI
+ <img src ="images/1.PNG">
+ <img src ="images/2.PNG">
+# For Training Model
+
+- Fork the Main Repo Of [Image Upscaling](https://github.com/vaibhavhariaramani/Image_Upscaling_Algorithms) .
+- In that Repo open `1_SRCNN`.
+- Either use ipynb on various dataset or 
+- To train the model with a zoom factor of 2, for 200 epochs and on GPU:
 
 `python main.py --zoom_factor 2 --nb_epoch 200 --cuda`
 
@@ -26,6 +35,4 @@ SRCNN zoom:
 
 ![ SRCNN zoom](3_srcnn.jpg "SRCNN zoom")
 
-# Reference
 
-[Original paper on SRCNN by Dong et al. (*Image Super-Resolution Using Deep Convolutional Networks*)](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf)
