@@ -41,8 +41,7 @@ SRCNN zoom:
 Original image:
 
 ![Original image](1_original.jpg "Original image")
-=======
->>>>>>> 62991e1e39cfbdabee9506d120563b7f9b8441d0
+
 
 Bicubic interpolation zoom:
 
