@@ -38,20 +38,6 @@ SRCNN zoom:
 ![ SRCNN zoom](https://github.com/vaibhavhariaramani/Image_Upscaling_Algorithms/blob/main/1_SRCNN/images/3_srcnn.jpg "SRCNN zoom")
 
 
-Original image:
-
-![Original image](1_original.jpg "Original image")
-
-
-Bicubic interpolation zoom:
-
-![Bicubic interpolation zoom](https://github.com/vaibhavhariaramani/Image_Upscaling_Algorithms/blob/main/1_SRCNN/images/2_bicubic.jpg "Bicubic interpolation zoom")
-
-SRCNN zoom:
-
-![ SRCNN zoom](https://github.com/vaibhavhariaramani/Image_Upscaling_Algorithms/blob/main/1_SRCNN/images/3_srcnn.jpg "SRCNN zoom")
-
-
 
 
 # Resources 
