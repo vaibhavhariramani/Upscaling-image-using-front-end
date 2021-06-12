@@ -31,5 +31,5 @@ def external(request):
     
     gurl = image.stdout
     gurl = gurl.decode("utf-8")
-
+    print(gurl)
     return render(request, 'home.html', { 'raw_url': templateurl, 'edit_url': gurl})
