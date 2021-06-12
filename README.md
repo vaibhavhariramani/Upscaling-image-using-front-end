@@ -27,7 +27,7 @@ To use the model on an image: (the zoom factor must be the same the one used to 
 Original image:
 
 ![Original image](https://github.com/vaibhavhariaramani/Image_Upscaling_Algorithms/blob/main/1_SRCNN/images/input/1_original.jpg "Original image")
-<<<<<<< HEAD
+
 
 Bicubic interpolation zoom:
 
