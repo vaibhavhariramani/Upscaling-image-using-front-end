@@ -25,7 +25,7 @@ SECRET_KEY = '5^3g5q$$)$#x+sev1q3cip1=-z3@*ztl6=0@2t!8he=)spo@)j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['imageupscaler.herokuapp.com']
 MEDIA_URL = 'external/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
