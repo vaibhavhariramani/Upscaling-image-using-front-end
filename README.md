@@ -54,8 +54,8 @@ SRCNN zoom:
 6. Click on deploy model
 Hence your model is deployed.....
 Checkout my model [https://imageupscaler.herokuapp.com/](https://imageupscaler.herokuapp.com/)
+============================================================================ 
 
-==================================================================================================================
 
 
 # Resources 
